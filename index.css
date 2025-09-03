@@ -4,6 +4,8 @@ body {
     font-family:  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
